@@ -37,7 +37,7 @@ How can the company leverage consumer shopping data to identify trends, improve 
 ## 🙋 **Contact**
 
 If you want to connect or discuss this project:
-**Name:** Tabish Sultan Mulla
+**Name:** Faiyyaz Mogal
 **Email:** [faiyyazmogal@gmail.com]
 **Role:** Data Analyst
 
