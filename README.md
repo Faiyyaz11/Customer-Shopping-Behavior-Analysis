@@ -201,7 +201,7 @@ Available in `/reports` and `/presentation` directories.
 
 If you want to connect or discuss this project:
 **Name:** Tabish Sultan Mulla
-**Email:** [mullatabish74@gmail.com](mailto:mullatabish74@gmail.com)
+**Email:** [faiyyazmogal@gmail.com]
 **Role:** Data Analyst
 
 
